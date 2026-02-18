@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  color: #222;
+}
+
+.section {
+  padding: 4rem 8%;
+}
+
+h1, h2 {
+  margin-bottom: 1rem;
+}
